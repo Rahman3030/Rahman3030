@@ -47,7 +47,7 @@ Aspiring Networking Enthusiast
 
 ---
 
-> “Empathy and evidence are my go-to tools—for technology and for life.”
+“Empathy and evidence are my go-to tools—for technology and for life.”
 
 
 <!--
