@@ -1,7 +1,7 @@
 👋 Hi, I'm Rahman S N
 
 **Student Member | British Computer Society (BCS)**  
-Aspiring DevOps Engineer & Networking Enthusiast
+Aspiring Networking Enthusiast
 
 ---
 
