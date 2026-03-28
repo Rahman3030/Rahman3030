@@ -7,8 +7,8 @@ Aspiring Networking Enthusiast
 
 👨‍💻 About Me
 
-- 🎓 **Student at BCS:** Completed all BCS HEQ exams, currently awaiting my final results in December.
-- 🛠️ **DevOps Intern:** 2 months of hands-on experience in DevOps (September–October 2024).
+- 🎓 **Student at BCS:** Completed all BCS HEQ exams, Holding the Professional Graduate Diploma (Equivalent to a uk honors in bachelor's of computer science)
+- 🛠️ **Labs** Practiced Vlan, STP, OSPF, NAT, ACL on Cisco Packet Tracer
 - 🏆 **Final Year Project:** Containerized and deployed the open-source [TimeOff.Management](https://github.com/Rahman3030/timeoff-management-application) app on AWS EC2, with real-time monitoring via CloudWatch (metrics: disk, memory, CPU).
 - 🌍 **Scientific Mindset:** I value evidence-based information and empathetic communication—making tech approachable for everyone.
 
@@ -20,8 +20,7 @@ Aspiring Networking Enthusiast
 - Linux | Networking (Switching, Routing, ACL, VPN)  
 - AWS (EC2, S3, CloudWatch, VPC)
 
-**Basic:**  
-- Prometheus & Grafana  
+**Basic:**   
 - Docker
 
 ---
