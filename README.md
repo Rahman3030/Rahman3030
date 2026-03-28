@@ -1,20 +1,20 @@
-👋 Hi, I'm Rahman S N
+ Hi, I'm Rahman S N
 
 **Student Member | British Computer Society (BCS)**  
 Aspiring Networking Enthusiast
 
 ---
 
-👨‍💻 About Me
+ About Me
 
-- 🎓 **Student at BCS:** Completed all BCS HEQ exams, Holding the Professional Graduate Diploma (Equivalent to a uk honors in bachelor's of computer science)
-- 🛠️ **Labs** Practiced Vlan, STP, OSPF, NAT, ACL on Cisco Packet Tracer
-- 🏆 **Final Year Project:** Containerized and deployed the open-source [TimeOff.Management](https://github.com/Rahman3030/timeoff-management-application) app on AWS EC2, with real-time monitoring via CloudWatch (metrics: disk, memory, CPU).
-- 🌍 **Scientific Mindset:** I value evidence-based information and empathetic communication—making tech approachable for everyone.
+-  **Student at BCS:** Completed all BCS HEQ exams, Holding the Professional Graduate Diploma (Equivalent to a uk honors in bachelor's of computer science)
+-  **Labs** Practiced Vlan, STP, OSPF, NAT, ACL on Cisco Packet Tracer
+-  **Final Year Project:** Containerized and deployed the open-source [TimeOff.Management](https://github.com/Rahman3030/timeoff-management-application) app on AWS EC2, with real-time monitoring via CloudWatch (metrics: disk, memory, CPU).
+-  **Scientific Mindset:** I value evidence-based information and empathetic communication—making tech approachable for everyone.
 
 ---
 
-🛠️ Skills
+ Skills
 
 **Strong:**  
 - Linux | Networking (Switching, Routing, ACL, VPN)  
@@ -25,22 +25,22 @@ Aspiring Networking Enthusiast
 
 ---
 
-🚀 Featured Projects
+ Featured Projects
 
 - **[TimeOff Management Application](https://github.com/Rahman3030/timeoff-management-application):**  
   Containerized deployment of an open-source HR app, fully monitored on AWS.
 
 
 
-🧠 Beyond Tech
+ Beyond Tech
 
-- 📚 I enjoy reading about evolutionary history, economics, and development studies.
-- 💪 Passionate about resistance training—committed to building strength for the last 1.5 years.
-- 🌐 Always learning: I follow top networking content creators to deepen my practical skills.
+-  I enjoy learning about history, geopolitics, and science.
+-  Passionate about resistance training—committed to building muscles for the last 1 year.
+-  Always learning: I always learn something new everyday by reading books and watching useful contents.
 
 ---
 
-📫 Connect with Me
+ Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rahman-sn-a38b112b7)
 
